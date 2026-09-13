@@ -95,4 +95,4 @@ prisma/
 
 ---
 
-Project portfolio · GitHub: [github.com/mobplay-script](https://github.com/mobplay-script)
+Project portfolio · GitHub: [github.com/dipras95](https://github.com/dipras95)
