@@ -38,7 +38,6 @@ yarn-error.log*
 
 # AI assistant config (lokal saja, jangan di-push)
 AGENTS.md
-CLAUDE.md
 
 # typescript
 *.tsbuildinfo

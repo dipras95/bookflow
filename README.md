@@ -5,7 +5,6 @@
 **🔗 Live demo:** **[bookflow-ruddy.vercel.app](https://bookflow-ruddy.vercel.app/)**
 **👤 Akun demo:** klik tombol **“Coba Demo” / “Login sebagai Demo”** (tanpa perlu daftar)
 
-<!-- Tips: tambahkan screenshot/GIF dashboard di sini, mis. ![Dashboard](docs/dashboard.png) -->
 
 ---
 
